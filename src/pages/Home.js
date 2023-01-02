@@ -30,7 +30,7 @@ function Home() {
           alt=""
         />
         <div className="home_inputContainer"></div>
-        <Search/>
+        <Search />
         {/* <Search hideButtons /> */}
         {/* <SearchPage /> */}
       </div>
